@@ -1,0 +1,33 @@
+html {
+  padding:0px;
+  margin: 0px;
+  background-color: black;
+}
+
+body {
+  padding:0px;
+  margin: 0px;
+}
+
+#videoElement {
+  width: 100%;
+  margin:0px;
+}
+
+#titlecomment {
+  position: fixed;
+  top: 0px;
+  left:0px;
+  width:100%;
+  color: black;
+  text-align:center;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+#title {
+  font-size: 8vh;
+}
+
+#comment {
+  font-size: 3vh;
+}
